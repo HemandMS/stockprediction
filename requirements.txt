@@ -2,5 +2,5 @@ pystan==2.19.1.1
 streamlit==0.81.0
 fbprophet==0.7.1
 pandas==1.1.3
-yfinance==0.1.59
+yfinance==0.1.63
 plotly==4.14.3
